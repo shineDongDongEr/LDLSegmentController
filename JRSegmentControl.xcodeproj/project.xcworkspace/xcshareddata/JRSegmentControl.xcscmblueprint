@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "404F560C186B4C894B2C6C5155EC33D6D669435A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "404F560C186B4C894B2C6C5155EC33D6D669435A" : 0,
+    "65C410731B10644913A67FB8EC36D0AA7F7E81C8" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "8B6A52A0-CAD8-4780-8A24-0C6EB6C7A133",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "404F560C186B4C894B2C6C5155EC33D6D669435A" : "LDLSegmentController\/",
+    "65C410731B10644913A67FB8EC36D0AA7F7E81C8" : "JRSegmentControl"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "JRSegmentControl",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "JRSegmentControl.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/shineDongDongEr\/LDLSegmentController.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "404F560C186B4C894B2C6C5155EC33D6D669435A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/zhanjiarong\/JRSegmentControl.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "65C410731B10644913A67FB8EC36D0AA7F7E81C8"
+    }
+  ]
+}

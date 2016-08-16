@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # JRSegmentControl
 
 
@@ -58,3 +59,6 @@
 
 
 ## QQ:541135917
+=======
+# LDLSegmentController
+>>>>>>> e80971628514a7ec72f7748b33b4774142897e3e
